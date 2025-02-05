@@ -16,7 +16,7 @@ params = {
     'key': api_key,
     'cx': EngineID,
     'filter': '0',  # Ensures the results are more relevant
-    'num': 10,  # Adjust the number of search results to retrieve
+    'num': 3,  # Adjust the number of search results to retrieve
     'siteSearch': 'careers',  # Focus on job posting sites
 }
 
