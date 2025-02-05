@@ -18,7 +18,7 @@ connection = http.client.HTTPConnection(host)
 headers = {"Content-type": "application/json"}
 
 # Query to search for jobs (keywords and location)
-body = '{"keywords": "it", "location": "Hamilton"}'
+body = '{"keywords": "buyer", "location": "Ontario"}'
 connection.request('POST', '/api/' + JOOL_API_KEY, body, headers)
 
 # Get the response
