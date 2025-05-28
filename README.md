@@ -1,2 +1,2 @@
 # searchEngine
-integration with Google API
+Empowering people with AI and Lean skills
